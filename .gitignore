@@ -1,3 +1,6 @@
 
 /wp-config.php
 .htaccess
+
+.vs/wordpress-resiliancy/v15/
+.vs/slnx.sqlite
