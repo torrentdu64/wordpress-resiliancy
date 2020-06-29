@@ -1,3 +1,6 @@
 
 /wp-config.php
 .htaccess
+
+ .vs/slnx.sqlite
+ .vs/slnx.sqlite-journal
